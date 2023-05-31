@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6e868dbd-97a1-4e04-819a-6a57cec55b09" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/out/production/SDETJavaBatchBasics/class1/calculator.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/class1/WhileLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/class1/ecvr.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/class1/exeeeee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/class1/exeeeeee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/class1/jjjjjjjjjj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bacth15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HWJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/HW5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddffff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fdg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../git02/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../git02/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gitHomeWork02/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gitHomeWork02/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gitHomeWork02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gitHomeWork02/src/Main.java" afterDir="false" />
@@ -14,20 +39,87 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2K0HIoUI2g4hpWIXS9Wd7udRz4u" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.HW9">
+    <configuration name="HW5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.HW5" />
+      <module name="bacth15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW6" />
+      <module name="bacth15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW7" />
+      <module name="bacth15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW8" />
+      <module name="bacth15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW9" />
+      <module name="bacth15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HW9" />
+        <item itemvalue="Application.HW8" />
+        <item itemvalue="Application.HW7" />
+        <item itemvalue="Application.HW6" />
+        <item itemvalue="Application.HW5" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,5 +130,8 @@
       <updated>1673104504596</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
