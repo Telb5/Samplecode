@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95b303d1-c231-4989-9581-86fe3073bf57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Class11Java/Class11Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkAshgar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkAshgar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkAshgar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkAshgar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkAshgar/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkAshgar/HomeWorkAshgar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkAshgar/out/production/HomeWorkAshgar/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkAshgar/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkAshgar/src/homeworknum2date0114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework-JAVA/src/HW_duringclass/Task001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeworkJAVA/HomeworkJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replitexer/Replitexer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replitexer/src/fffff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replitexer/src/khjkgcbf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Book2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDETBatch15Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SDETBatch15Java/class20/Child1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SDETBatch15Java/class20/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SDETBatch15Java/class21/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SDETBatch15Java/class21/AnimalTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SDETBatch15Java/class21/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SDETBatch15Java/class21/Calculator_Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SDETBatch15Java/class21/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class20/Child1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class20/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/Ashgaaar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/Ashgaarr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/Ashgarexerc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/Ashhgaar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/ashgar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/ddd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/fdfd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/repliiit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/reviewClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exampleOOP/exampleOOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkmethods/homeworkmethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodclassnumber14/class14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodclassnumber14/src/MethodsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../replithwstringmanipulation/replithwstringmanipulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../replitslooparray/replitslooparray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reviewclassss/reviewclassss.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projets/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Projets/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Replitexer/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Replitexer/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDETJavaBatchBasics/out/production/SDETJavaBatchBasics/class1/calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/out/production/SDETJavaBatchBasics/class1/calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/class1/WhileLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/class1/WhileLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/class1/ecvr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/class1/ecvr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/class1/exeeeee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/class1/exeeeee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/class1/exeeeeee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/class1/exeeeeee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/class1/jjjjjjjjjj.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/class1/jjjjjjjjjj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/dsfds.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDETJavaBatchBasics/src/dsfds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bacth15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bacth15/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bacth15/src/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bacth15/src/HW2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bacth15/src/HW3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bacth15/src/HW3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bacth15/src/HW4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bacth15/src/HW4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bacth15/src/HW6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bacth15/src/HW6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bacth15/src/HW7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bacth15/src/HW7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bacth15/src/HW8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bacth15/src/HW8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bacth15/src/HW9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bacth15/src/HW9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bacth15/src/HWJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bacth15/src/HWJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bacth15/src/class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bacth15/src/class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bacth15/src/class1/HW5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bacth15/src/class1/HW5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bacth15/src/ddffff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bacth15/src/ddffff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bacth15/src/fdg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bacth15/src/fdg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git02/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../git02/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitHomeWork02/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gitHomeWork02/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitHomeWork02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gitHomeWork02/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LJ5PVBunAmtwqj1ACp2Pf18k4L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tarik/IdeaProjects/SDETBatch15Java/Files1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Files1" />
+      <recent name="$PROJECT_DIR$/Files" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="review12" />
+      <recent name="class28" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExcelDemo">
+    <configuration name="EntrySetDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review11.EntrySetDemo1" />
+      <module name="SDETBatch15Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="review11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review11.ExcelDemo" />
+      <module name="SDETBatch15Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="review11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelFileDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class32.ExcelFileDemo5" />
+      <module name="SDETBatch15Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class32.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelFileDemo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class32.ExcelFileDemo9" />
+      <module name="SDETBatch15Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class32.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelReaderDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class31.ExcelReaderDemo2" />
+      <module name="SDETBatch15Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExcelDemo" />
+        <item itemvalue="Application.EntrySetDemo1" />
+        <item itemvalue="Application.ExcelFileDemo9" />
+        <item itemvalue="Application.ExcelFileDemo5" />
+        <item itemvalue="Application.ExcelReaderDemo2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95b303d1-c231-4989-9581-86fe3073bf57" name="Changes" comment="" />
+      <created>1675576323677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675576323677</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
