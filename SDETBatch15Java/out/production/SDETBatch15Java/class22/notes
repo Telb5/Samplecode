@@ -1,0 +1,6 @@
+
+
+————when we inherit and we don't like 10% of what we inherited from the parent class, we can change that by creating a method inside the child class that we will inherit and
+by doing that, we won't be calling the variable or method from the parent class but from the child class because java always prioritize teh chile class over the parent class.
+
+

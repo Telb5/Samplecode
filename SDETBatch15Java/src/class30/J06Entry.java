@@ -1,0 +1,25 @@
+package class30;
+
+public class J06Entry {
+    private int key;
+    private String value;
+
+    public J06Entry(int key,String value){
+        this.key= key;
+        this.value= value;
+    }
+
+    public int getKey() {
+        return key;
+    }
+
+    public String getValue(){
+        return value;
+    }
+
+    @Override
+    public String toString() {
+        return "J06Entry{" +
+                "key=" + key +
+                ", value='" + value;};
+    }
